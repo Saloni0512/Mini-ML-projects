@@ -1,5 +1,5 @@
-#Mini ML Projects
+# Mini ML Projects
 
-##Contents
+## Contents
 1. Property Price Prediction
 2. Movie Recommendation System
